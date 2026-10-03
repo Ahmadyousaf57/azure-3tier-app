@@ -1,0 +1,6 @@
+.env
+*.pem
+*.key
+azure_3tier*
+node_modules/
+*.log
